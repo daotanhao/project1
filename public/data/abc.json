@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "item-1929",
+        "title": "Flat / Apartment",
+        "excert": "Khu đô thị Thủ Thiêm, Quận 2, TP.Thủ Đức TP. Hồ Chí Minh, An Khánh, Quận 2, Thành phố Hồ Chí Minh, Vietnam",
+        "description": "Khu đô thị Thủ Thiêm, Quận 2, TP.Thủ Đức TP. Hồ Chí Minh, An Khánh, Quận 2, Thành phố Hồ Chí Minh, Vietnam",
+        "images": [
+          {
+            "original": "/assets/images/original/apartment/3/1.jpg",
+            "thumbnail": "/assets/images/thumbnail/apartment/3/1.jpg"
+          },
+          {
+            "original": "/assets/images/original/apartment/3/2.jpg",
+            "thumbnail": "/assets/images/thumbnail/apartment/3/2.jpg"
+          },
+          {
+            "original": "/assets/images/original/apartment/3/3.jpg",
+            "thumbnail": "/assets/images/thumbnail/apartment/3/3.jpg"
+          }
+        ],
+        "type": "Flat / Apartment",
+        "rooms": 4,
+        "area": 86.0,
+        "rent": 16601849800.0,
+        "deposit": 16601849800.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.7136012, 10.777504]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "item-1930",
+        "title": "Flat / Apartment",
+        "excert": "29B, Nguyen Dinh Chieu street, district 1",
+        "description": "29B, Nguyen Dinh Chieu street, district 1",
+        "images": [
+          {
+            "original": "/assets/images/original/apartment/3/1.jpg",
+            "thumbnail": "/assets/images/thumbnail/apartment/3/1.jpg"
+          },
+          {
+            "original": "/assets/images/original/apartment/3/2.jpg",
+            "thumbnail": "/assets/images/thumbnail/apartment/3/2.jpg"
+          },
+          {
+            "original": "/assets/images/original/apartment/3/3.jpg",
+            "thumbnail": "/assets/images/thumbnail/apartment/3/3.jpg"
+          }
+        ],
+        "type": "Flat / Apartment",
+        "rooms": 3,
+        "area": 72.0,
+        "rent": 21739838000.0,
+        "deposit": 21739838000.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.6991857, 10.7870327]
+      }
+    }
+  ]
+}

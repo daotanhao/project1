@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "item-0",
+        "title": "apartment",
+        "excert": "1 Tôn Thất Thuyết, Phường 1, Quận 4, Thành phố Hồ Chí Minh, Vietnam",
+        "description": "1 Tôn Thất Thuyết, Phường 1, Quận 4, Thành phố Hồ Chí Minh, Vietnam",
+        "images": [
+          {
+            "original": "/assets/images/original/apartment/2/1.jpg",
+            "thumbnail": "/assets/images/thumbnail/apartment/2/1.jpg"
+          }
+        ],
+        "type": "apartment",
+        "rooms": 4,
+        "area": 78,
+        "rent": 10900,
+        "deposit": 83000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.6920479, 10.7549049]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "item-1",
+        "title": "ABCD",
+        "excert": "Orci varius natoque penatibus et magnis dis parturient montes.",
+        "description": "Phasellus faucibus scelerisque eleifend donec pretium vulputate sapien nec. Sed euismod nisi porta lorem mollis aliquam ut porttitor leo. Morbi enim nunc faucibus a pellentesque sit amet porttitor. Turpis in eu mi bibendum neque egestas. Nibh praesent tristique magna sit amet purus. Id aliquet risus feugiat in ante metus. Curabitur gravida arcu ac tortor. Vivamus arcu felis bibendum ut tristique et egestas. Nunc non blandit massa enim nec dui nunc mattis. Eu non diam phasellus vestibulum lorem. Risus commodo viverra maecenas accumsan lacus vel.",
+        "images": [
+          {
+            "original": "/assets/images/original/apartment/2/1.jpg",
+            "thumbnail": "/assets/images/thumbnail/apartment/2/1.jpg"
+          }
+        ],
+        "type": "apartment",
+        "rooms": 1,
+        "area": 97,
+        "rent": 10900,
+        "deposit": 83000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.6991857, 10.7870327]
+      }
+    }
+  ]
+}
